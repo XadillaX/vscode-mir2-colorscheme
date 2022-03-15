@@ -11,6 +11,7 @@
     "Themes"
   ],
   "icon": "icon.png",
+  "repository": "git@github.com:XadillaX/vscode-mir2-colorscheme.git",
   "contributes": {
     "themes": [
       {
