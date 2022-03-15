@@ -1,0 +1,28 @@
+{
+  "name": "mir2",
+  "displayName": "Mir2 Theme",
+  "description": "The Legend of Mir2 Theme",
+  "version": "0.0.1",
+  "publisher": "XadillaX",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mir2 Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/mir2-dark-color-theme.json"
+      },
+      {
+        "label": "Mir2 Light",
+        "uiTheme": "vs",
+        "path": "themes/mir2-light-color-theme.json"
+      }
+    ]
+  }
+}
