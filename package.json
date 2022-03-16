@@ -10,7 +10,11 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
+  "icon": "assets/logo.jpg",
+  "galleryBanner": {
+    "color": "#808080",
+    "theme": "dark"
+  },
   "repository": "git@github.com:XadillaX/vscode-mir2-colorscheme.git",
   "contributes": {
     "themes": [
