@@ -17,13 +17,13 @@ The palette was extracted from the original picture below by [Theme Color Extrac
   </thead>
   <tbody>
   <tr>
-    <td><img src="assets/dark.png" /><br /><img src="assets/vscode-dark.png"></td>
-    <td width="8%"><img src="assets/logo.jpg" /></td>
-    <td><img src="assets/light.png" /><br /><img src="assets/vscode-light.png"></td>
+    <td><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/dark.png" /><br /><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/vscode-dark.png"></td>
+    <td width="8%"><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/logo.jpg" /></td>
+    <td><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/light.png" /><br /><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/vscode-light.png"></td>
   </tr>
   <tr>
   <td colspan="3" align="center">
-    <b>Original Picture</b><br /><img src="assets/original.jpg" />
+    <b>Original Picture</b><br /><img src="https://github.com/XadillaX/vscode-mir2-colorscheme/raw/master/assets/original.jpg" />
   </td>
   </tr>
   </tbody>

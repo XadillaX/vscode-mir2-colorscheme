@@ -1,8 +1,9 @@
 {
   "name": "mir2",
+  "author": "XadillaX <i@2333.moe>",
   "displayName": "Mir2 Theme",
   "description": "The Legend of Mir2 Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "XadillaX",
   "engines": {
     "vscode": "^1.14.0"
@@ -15,7 +16,14 @@
     "color": "#808080",
     "theme": "dark"
   },
-  "repository": "git@github.com:XadillaX/vscode-mir2-colorscheme.git",
+  "bugs": {
+    "url": "https://github.com/XadillaX/vscode-mir2-colorscheme/issues"
+  },
+  "homepage": "https://github.com/XadillaX/vscode-mir2-colorscheme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XadillaX/vscode-mir2-colorscheme.git"
+  },
   "contributes": {
     "themes": [
       {
@@ -29,5 +37,6 @@
         "path": "themes/mir2-light-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
